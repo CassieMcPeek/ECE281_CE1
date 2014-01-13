@@ -44,7 +44,7 @@ begin
 
 B_NOT <= not B;
 D <= A and B_NOT;  --comment
-E <= B and C;
+E <= B and C;    -- comment 2
 F <= D or E;
 
 end Behavioral;
