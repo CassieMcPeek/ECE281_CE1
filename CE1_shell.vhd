@@ -43,7 +43,7 @@ signal B_NOT, D, E : STD_LOGIC;
 begin
 
 B_NOT <= not B;
-D <= A and B_NOT;
+D <= A and B_NOT;  --comment
 E <= B and C;
 F <= D or E;
 
