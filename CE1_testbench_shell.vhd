@@ -50,7 +50,7 @@ ARCHITECTURE behavior OF CE1_testbench IS
     
 
    --Inputs
-   signal A : std_logic := '0';
+   signal A : std_logic := '0'; --comment 2
    signal B : std_logic := '0'; --comment
    signal C : std_logic := '0';
 
