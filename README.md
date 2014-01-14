@@ -3,7 +3,7 @@ ECE281_CE1
 
 Cassie's Awesome Circuit
 
-## Stimulus Process
+# Stimulus Process
   stim_proc:process
   begin
     ## First line of the truth table
